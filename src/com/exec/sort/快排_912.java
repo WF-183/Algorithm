@@ -14,7 +14,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 public class 快排_912 {
 
     public static void main(String[] args) {
-        //PriorityQueue<Integer> queue = new PriorityQueue<>();
+        PriorityQueue<Integer> queue = new PriorityQueue<>();
         //queue.add(1);//加入一个元素，offer等效于add ，
         //queue.add(2);
         //Integer minEle = queue.poll();//获取堆顶最小元素，并移出队列，remove等效于poll

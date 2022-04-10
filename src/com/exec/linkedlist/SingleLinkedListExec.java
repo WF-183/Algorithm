@@ -98,6 +98,7 @@ public class SingleLinkedListExec {
 
 
     //2、求单向链表中倒数第k个节点
+    // 查找或删除倒数第k节点，正解应该是双指针法 《删除倒数第k节点_19》
     public Node getRevsKNode(SingleLinkedList singleLinkedList,int k){
         if (singleLinkedList == null) {
             return null;
