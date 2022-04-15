@@ -1,6 +1,9 @@
 package com.exec.arr;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
+import java.util.Stack;
 
 /**
  *
@@ -70,7 +73,7 @@ public class 下一个排列_31 {
 
 
 
-
+    
 
 
 }
